@@ -5,14 +5,6 @@ Documentação dos meus estudos em segurança ofensiva e defensiva via CTFs e la
 ## Por plataforma
 
 ### TryHackMe
-| Desafio | Categoria | Dificuldade | Data |
+| Desafio | Categoria | Técnicas | Dificuldade |
 |---|---|---|---|
-| [Nome](./HackTheBox-2025/Nome/writeup.md) | Web | 🟡 Médio | MM/AAAA |
-
-
-## Por categoria
-- **Web:**
-- **Crypto:**
-- **Pwn:** 
-- **Rev:** 
-- **Forensics:**
+| [Simple CTF](./TryHackMe/SimpleCTF/writeup-completo.md) | Web · Linux | SQLi, hashcat, privesc, GTFOBins | 🟢 Fácil 
